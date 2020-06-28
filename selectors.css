@@ -1,0 +1,28 @@
+/* Descendant Selectors */
+li a {
+    background: rgb(154, 154, 235);
+}
+/* Adjacent Selectors */
+h4 + ul{
+    border: 4px solid red;
+}
+/* Attribute Selectors */
+/* a[href="https://vivri.site/usa-eng/products/"] {
+    background: rgb(0, 0, 0);
+} */
+/* nth of type */
+ ul:nth-of-type(2){
+     background:green;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
