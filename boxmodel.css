@@ -1,0 +1,30 @@
+/* P {
+    border: 2px solid blue;
+    width: 50%;
+    padding: 10px;
+    /* margin: 100px; */
+    /* margin: 20px (t) 30px (R) 60px (B) 400px (L); */
+    /* margin: auto;
+} */
+
+td{
+    
+    width: 100px;
+    height: 100px;
+}
+
+.vertical{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+.horz {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+table {
+ margin: auto;
+}
+
+h1{
+    text-align: center;
+}
