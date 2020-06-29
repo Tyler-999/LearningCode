@@ -1,0 +1,20 @@
+h1 {
+    /* color: #217cb1e8;
+    border-color: springgreen;
+    border-width: 5px;
+    border-style: ridge; */
+    border: 1px solid rgb(201, 189, 86);
+
+
+}
+
+
+h4 {
+    background-color: rgb(176, 120, 233);
+}
+body {
+    background-color: salmon;
+    /* background-image: url(https://images.unsplash.com/photo-1533157950006-c38844053d55?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1900&q=80);
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
