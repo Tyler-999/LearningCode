@@ -1,0 +1,33 @@
+#container {
+  border: 15px solid #bdc3c7;
+  margin: 0 auto;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+}
+
+body{
+  padding-left: 150px;
+  padding-right: 230px;
+  padding-top: 10px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+h4 {
+  color: #3498db;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
+h2 {
+  color: #2c3e50;
+  text-transform: bold;
+}
+p {
+  border-left: 3px solid lightslategray;
+  padding-left: 2px;
+}
+hr.style-two {
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
