@@ -1,0 +1,8 @@
+.navbar {
+    background-color: mediumturquoise;
+}
+
+#header {
+    background-image: url(https://images.unsplash.com/photo-1550895030-823330fc2551?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60);
+    background-size: cover;
+}
